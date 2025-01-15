@@ -1,0 +1,40 @@
+#nav {
+    position: sticky;
+}
+
+.nav a:hover{
+    color: #ED1D24;
+}
+
+
+#hero {
+    background-image: url(../img/Marvel\ Heros.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: top;
+    min-height: 500px;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero h2 {
+    color: #6a1495;
+    font-size: 1.8rem;
+    text-shadow: 2px 2px 6px #fff;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #7A0078;
+}
+
+img {
+    max-width: 490px;
+    max-height: 450px;
+}
+
