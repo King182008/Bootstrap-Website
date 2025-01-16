@@ -35,6 +35,18 @@ a {
 
 img {
     max-width: 490px;
-    max-height: 450px;
+    max-height: 720px;
 }
 
+.last2 img {
+    max-width: 720px;
+}
+
+.tierlist{
+    background-image: url("../img/Screenshot\ 2025-01-10\ at\ 12.03.41\ PM.png");
+    object-fit: cover;
+}
+
+.purple {
+    color: #7A0078;
+}
