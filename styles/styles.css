@@ -39,14 +39,10 @@ img {
 }
 
 .last2 img {
-    max-width: 720px;
+    max-width: 750px;
 }
 
 .tierlist{
     background-image: url("../img/Screenshot\ 2025-01-10\ at\ 12.03.41\ PM.png");
-    object-fit: cover;
-}
-
-.purple {
-    color: #7A0078;
+    object-fit: fill;
 }
